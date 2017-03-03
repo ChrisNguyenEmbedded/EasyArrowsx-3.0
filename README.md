@@ -1,4 +1,4 @@
-EasyArrowsx-3.0
+EasyArrowsx-3.0 (NOTICE: Just create a pad, yet control the sprite)
 ===============
 
 Easy Arrows for cocos2d redone for cocos2d-x 3.0+
